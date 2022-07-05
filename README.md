@@ -18,5 +18,11 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
+# Notes
+Worked with a tutor.
+I used the class repo for most of my reference
+Worked in a group with other classmates on this challenge
+
+
 # Links
 git@github.com:Gibler11/Ecommerce.git
